@@ -90,12 +90,13 @@ body {
 }
 
 .trailer {
+    padding-bottom: 5px;
     display: flex;
-    background-color: yellow;
+    background-color: #e4bb23;
     margin: 40px;
     background-position: right;
     width: 15%;
-    border-radius: 20%;
+    border-radius: 35%;
     height: 50px;
 }
 .trailer ul {
@@ -160,7 +161,7 @@ body {
 
 .card {
     width: 220px;
-    margin: 20px;
+    margin: 5px;
     background-color: white;
     border-radius: 3%;
   }
