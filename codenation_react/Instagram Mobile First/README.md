@@ -47,3 +47,5 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 
 ### Versão Desktop:
 ![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-12/screenshot-aula-02-desktop.jpg)
+
+#
